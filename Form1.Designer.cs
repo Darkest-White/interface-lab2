@@ -116,7 +116,7 @@
             this.button3.BackColor = System.Drawing.Color.Gray;
             this.button3.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button3.ForeColor = System.Drawing.Color.Green;
-            this.button3.Location = new System.Drawing.Point(131, 65);
+            this.button3.Location = new System.Drawing.Point(131, 63);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(35, 60);
             this.button3.TabIndex = 25;
@@ -131,7 +131,7 @@
             this.button4.BackColor = System.Drawing.Color.Gray;
             this.button4.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button4.ForeColor = System.Drawing.Color.Green;
-            this.button4.Location = new System.Drawing.Point(164, 65);
+            this.button4.Location = new System.Drawing.Point(165, 63);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(35, 60);
             this.button4.TabIndex = 24;
@@ -146,7 +146,7 @@
             this.button5.BackColor = System.Drawing.Color.Gray;
             this.button5.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button5.ForeColor = System.Drawing.Color.Green;
-            this.button5.Location = new System.Drawing.Point(133, 129);
+            this.button5.Location = new System.Drawing.Point(131, 123);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(35, 60);
             this.button5.TabIndex = 23;
@@ -161,7 +161,7 @@
             this.button6.BackColor = System.Drawing.Color.Gray;
             this.button6.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button6.ForeColor = System.Drawing.Color.Green;
-            this.button6.Location = new System.Drawing.Point(165, 129);
+            this.button6.Location = new System.Drawing.Point(165, 122);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(35, 60);
             this.button6.TabIndex = 22;
@@ -176,7 +176,7 @@
             this.button7.BackColor = System.Drawing.Color.Gray;
             this.button7.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button7.ForeColor = System.Drawing.Color.Green;
-            this.button7.Location = new System.Drawing.Point(133, 188);
+            this.button7.Location = new System.Drawing.Point(131, 182);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(35, 60);
             this.button7.TabIndex = 21;
@@ -191,7 +191,7 @@
             this.button8.BackColor = System.Drawing.Color.Gray;
             this.button8.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button8.ForeColor = System.Drawing.Color.Green;
-            this.button8.Location = new System.Drawing.Point(163, 188);
+            this.button8.Location = new System.Drawing.Point(165, 182);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(35, 60);
             this.button8.TabIndex = 20;
@@ -206,7 +206,7 @@
             this.button9.BackColor = System.Drawing.Color.Gray;
             this.button9.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button9.ForeColor = System.Drawing.Color.Green;
-            this.button9.Location = new System.Drawing.Point(135, 243);
+            this.button9.Location = new System.Drawing.Point(131, 239);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(35, 60);
             this.button9.TabIndex = 27;

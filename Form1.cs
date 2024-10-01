@@ -101,14 +101,14 @@ namespace interface_lab2
         private void OutDataSecond()
         {
             Workbook workbook = new Workbook();
-            Worksheet worksheet = workbook.Worksheets[1];
+            Worksheet worksheet = workbook.Worksheets[0];
 
             int cur = 0;
 
             foreach (var font in colors)
             {
                 worksheet.Range[1, 1 + cur * 4].Value = "color";
-                worksheet.Range[2, 1 + cur * 4].Value = font.ToString();
+                worksheet.Range[2, 1 + cur * 4].Value = colors.ToString();
                 worksheet.Range[3, 1 + cur * 4].Value = "n";
                 worksheet.Range[3, 2 + cur * 4].Value = "t";
 
@@ -125,7 +125,7 @@ namespace interface_lab2
                 cur++;
             }
 
-            worksheet = workbook.Worksheets[2];
+            worksheet = workbook.Worksheets[1];
 
             cur = 0;
 
